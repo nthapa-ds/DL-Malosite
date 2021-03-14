@@ -1,6 +1,6 @@
 # DL-Malosite
 
-Deep learning model for prediction of Malonylation in KC lab by Niraj Thapa.
+Deep learning model for prediction of Malonylation sites developed in KC lab by Niraj Thapa.
 
 # Requirement
   Backend = Tensorflow <br/>
